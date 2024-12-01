@@ -14,3 +14,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | rattatandygo         | Python                      | [link](https://github.com/RattatAndyGo/aoc-2024)       |
 | .d1ff1cult           | Julia                       | [link](https://github.com/d1ff1cult0/aoc-2024)         |
 | maaren               | TypeScript                  | [link](https://github.com/mhkdepauw/aoc_2024)          |
+| exur00               | Bash                        | [link](https://github.com/exur00/aoc2024)              |
