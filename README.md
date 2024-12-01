@@ -11,4 +11,6 @@ A list of links to repositories with solutions, made by students at the KUL.
 | sv3r                 | Python                      | [link](https://github.com/Sv3r/aoc-2024)               |
 | lencr                | Python                      | [link](https://github.com/LC-Grrr/aoc-2024)            |
 | gobblemeswallowme    | Python                      | [link](https://github.com/iEndrath/AOC-2024)           |
+| rattatandygo         | Python                      | [link](https://github.com/RattatAndyGo/aoc-2024)       |
 | .d1ff1cult           | Julia                       | [link](https://github.com/d1ff1cult0/aoc-2024)         |
+| maaren               | TypeScript                  | [link](https://github.com/mhkdepauw/aoc_2024)          |
