@@ -16,3 +16,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | maaren               | TypeScript                  | [link](https://github.com/mhkdepauw/aoc_2024)          |
 | exur00               | Bash                        | [link](https://github.com/exur00/aoc2024)              |
 | seppelesschaeve      | C                           | [link](https://github.com/SeppeLesschaeve/AOC_2024)    |
+| wreckedt             | Haskell                     | [link](https://github.com/MatzHilven/aoc-2024)         |
