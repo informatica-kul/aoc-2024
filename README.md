@@ -18,3 +18,4 @@ A list of links to repositories with solutions, made by students at the KUL.
 | seppelesschaeve      | C                           | [link](https://github.com/SeppeLesschaeve/AOC_2024)    |
 | wreckedt             | Haskell                     | [link](https://github.com/MatzHilven/aoc-2024)         |
 | simeondermaats       | Haskell                     | [link](https://github.com/WalrusGumboot/aoc2024)       |
+| .vigintillion        | Rust                        | [link](https://github.com/Vigintillionn/aoc_2024)      |
